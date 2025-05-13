@@ -2,7 +2,9 @@
 <h1 align="center">Hola, soy Ezequiel Cuevas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 </br>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzeCuevass&layout=compact&langs_count=8&theme=algolia&show_icons=true"/>
+<div align=center>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzeCuevass&layout=compact&langs_count=8&theme=algolia&show_icons=true"/>
+</div>
 <!--
 **EzeCuevass/EzeCuevass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
